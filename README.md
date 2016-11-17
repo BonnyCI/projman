@@ -12,7 +12,7 @@ Code testing is currently managed by Travis (yes, we see the irony), and while c
 
 Pull requests can be reviewed by anybody, but require an Approval by a member of the BonnyCI Captians team. We prefer small changes using commits that produce a functional tree with every commit, to aid in future bisect adventures.
 
-It is not necessary to create an issue or produce a spec/blueprint, or ask for permission to change something before presenting code. Code can be shared to start and frame a conversation. We do ask that code that is not ready for inclusion be marked in the pull request subject (not the commit message) with `[WIP]`. If the pull request aims to resolve an open issue, please indicate that with a line in the commit message such as `Fixes #XXX`. Additionally, we ask that commit messages be concise and informative. Please follow the guide at http://chris.beams.io/posts/git-commit/ .
+It is not necessary to create an issue or produce a spec/blueprint, or ask for permission to change something before presenting code. Code can be shared to start and frame a conversation. We do ask that code that is not ready for inclusion be marked in the pull request subject (not the commit message) with `[WIP]`. If the pull request aims to resolve an open issue, please indicate that with a line in the commit message such as `Fixes #XXX`. Additionally, we ask that commit messages be concise and informative. Please follow [this guide] (http://chris.beams.io/posts/git-commit/) on writing commit messages.
 
 ### Style Guide
 There will be a style guide in the future.
